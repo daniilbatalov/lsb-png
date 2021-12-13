@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lsb-png": {
+      "commandName": "Project",
+      "commandLineArgs": "-encode image.txt new_image.png test.txt"
+    }
+  }
+}
